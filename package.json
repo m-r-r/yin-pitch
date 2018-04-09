@@ -1,0 +1,21 @@
+{
+  "name": "yin-pitch",
+  "version": "0.1.0",
+  "description": "Find the frequency of a sound signal",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "pitch",
+    "yin",
+    "frequency",
+    "audio",
+    "signal"
+  ],
+  "author": "Mickaël RAYBAUD-ROIG <raybaudroigm@gmail.com> (http://ctrlaltbksp.eu/)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "4.9.0"
+  }
+}
